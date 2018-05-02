@@ -1,2 +1,2 @@
 # KuliahATOL20172
-File-file perkuliahan Aplikasi Teknologi Online Semester Genap 2017/2018
+Repositori ini berisi file-file yang akan digunakan di perkuliahan Aplikasi Teknologi Online Semester Genap 2017/2018 yang saya ampu.
